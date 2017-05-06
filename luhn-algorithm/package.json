@@ -1,0 +1,19 @@
+{
+  "name": "luhn-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "luhn-algorithm.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter=nyan"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
